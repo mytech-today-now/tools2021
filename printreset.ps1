@@ -1,4 +1,4 @@
-:: Reset Print Spooler for Windows Comptuers
+# Reset Print Spooler for Windows Comptuers
 
 net stop spooler
 
